@@ -1,0 +1,912 @@
+{
+  "E4186000N2724000": {
+    "latitude": 47.622645,
+    "longitude": 8.211963,
+    "specific_yield_kwh_kwp": 807.39,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4187000N2724000": {
+    "latitude": 47.620276,
+    "longitude": 8.226156,
+    "specific_yield_kwh_kwp": 806.47,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4191000N2726000": {
+    "latitude": 47.636673,
+    "longitude": 8.278323,
+    "specific_yield_kwh_kwp": 805.91,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4180000N2722000": {
+    "latitude": 47.597088,
+    "longitude": 8.134692,
+    "specific_yield_kwh_kwp": 801.68,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4186000N2725000": {
+    "latitude": 47.627749,
+    "longitude": 8.213214,
+    "specific_yield_kwh_kwp": 777.27,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4184000N2724000": {
+    "latitude": 47.619505,
+    "longitude": 8.187897,
+    "specific_yield_kwh_kwp": 811.29,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4192000N2726000": {
+    "latitude": 47.638433,
+    "longitude": 8.288463,
+    "specific_yield_kwh_kwp": 808.81,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4193000N2725000": {
+    "latitude": 47.630623,
+    "longitude": 8.305478,
+    "specific_yield_kwh_kwp": 805.56,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4198000N2729000": {
+    "latitude": 47.664656,
+    "longitude": 8.370556,
+    "specific_yield_kwh_kwp": 813.0,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4187000N2725000": {
+    "latitude": 47.626068,
+    "longitude": 8.222305,
+    "specific_yield_kwh_kwp": 807.97,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4182000N2723000": {
+    "latitude": 47.607706,
+    "longitude": 8.16241,
+    "specific_yield_kwh_kwp": 811.15,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4188000N2724000": {
+    "latitude": 47.619541,
+    "longitude": 8.234212,
+    "specific_yield_kwh_kwp": 805.04,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4198000N2728000": {
+    "latitude": 47.65831,
+    "longitude": 8.367139,
+    "specific_yield_kwh_kwp": 813.75,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4190000N2726000": {
+    "latitude": 47.635462,
+    "longitude": 8.265908,
+    "specific_yield_kwh_kwp": 808.73,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4183000N2723000": {
+    "latitude": 47.609606,
+    "longitude": 8.170228,
+    "specific_yield_kwh_kwp": 811.7,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4191000N2725000": {
+    "latitude": 47.632474,
+    "longitude": 8.276664,
+    "specific_yield_kwh_kwp": 797.6,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4194000N2721000": {
+    "latitude": 47.595863,
+    "longitude": 8.320648,
+    "specific_yield_kwh_kwp": 791.95,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4192000N2723000": {
+    "latitude": 47.611626,
+    "longitude": 8.294963,
+    "specific_yield_kwh_kwp": 804.79,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4194000N2725000": {
+    "latitude": 47.629236,
+    "longitude": 8.316507,
+    "specific_yield_kwh_kwp": 804.57,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4190000N2725000": {
+    "latitude": 47.630909,
+    "longitude": 8.266361,
+    "specific_yield_kwh_kwp": 808.44,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4196000N2727000": {
+    "latitude": 47.649403,
+    "longitude": 8.345465,
+    "specific_yield_kwh_kwp": 800.56,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4185000N2724000": {
+    "latitude": 47.621986,
+    "longitude": 8.196782,
+    "specific_yield_kwh_kwp": 811.83,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4193000N2720000": {
+    "latitude": 47.587451,
+    "longitude": 8.305437,
+    "specific_yield_kwh_kwp": 789.32,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4194000N2724000": {
+    "latitude": 47.622366,
+    "longitude": 8.322155,
+    "specific_yield_kwh_kwp": 799.46,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4198000N2718000": {
+    "latitude": 47.571893,
+    "longitude": 8.374546,
+    "specific_yield_kwh_kwp": 792.51,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4198000N2719000": {
+    "latitude": 47.574246,
+    "longitude": 8.376067,
+    "specific_yield_kwh_kwp": 790.43,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4185000N2725000": {
+    "latitude": 47.624882,
+    "longitude": 8.202021,
+    "specific_yield_kwh_kwp": 796.28,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4195000N2725000": {
+    "latitude": 47.62672,
+    "longitude": 8.3272,
+    "specific_yield_kwh_kwp": 803.16,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4192000N2725000": {
+    "latitude": 47.631709,
+    "longitude": 8.294717,
+    "specific_yield_kwh_kwp": 800.86,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4179000N2721000": {
+    "latitude": 47.588168,
+    "longitude": 8.122199,
+    "specific_yield_kwh_kwp": 801.68,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4181000N2722000": {
+    "latitude": 47.601356,
+    "longitude": 8.145653,
+    "specific_yield_kwh_kwp": 808.67,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4188000N2726000": {
+    "latitude": 47.639791,
+    "longitude": 8.242299,
+    "specific_yield_kwh_kwp": 768.79,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4189000N2726000": {
+    "latitude": 47.641453,
+    "longitude": 8.24975,
+    "specific_yield_kwh_kwp": 801.04,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4189000N2727000": {
+    "latitude": 47.645418,
+    "longitude": 8.247834,
+    "specific_yield_kwh_kwp": 797.05,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4179000N2720000": {
+    "latitude": 47.585673,
+    "longitude": 8.116368,
+    "specific_yield_kwh_kwp": 795.42,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4178000N2721000": {
+    "latitude": 47.58773,
+    "longitude": 8.108888,
+    "specific_yield_kwh_kwp": 797.18,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4178000N2724000": {
+    "latitude": 47.615986,
+    "longitude": 8.106142,
+    "specific_yield_kwh_kwp": 810.36,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4195000N2724000": {
+    "latitude": 47.621704,
+    "longitude": 8.32788,
+    "specific_yield_kwh_kwp": 798.09,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4188000N2728000": {
+    "latitude": 47.658176,
+    "longitude": 8.240457,
+    "specific_yield_kwh_kwp": 815.17,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4193000N2723000": {
+    "latitude": 47.611038,
+    "longitude": 8.299418,
+    "specific_yield_kwh_kwp": 791.04,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4193000N2721000": {
+    "latitude": 47.590719,
+    "longitude": 8.30264,
+    "specific_yield_kwh_kwp": 789.71,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4196000N2722000": {
+    "latitude": 47.602946,
+    "longitude": 8.347358,
+    "specific_yield_kwh_kwp": 778.95,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4197000N2726000": {
+    "latitude": 47.641237,
+    "longitude": 8.35594,
+    "specific_yield_kwh_kwp": 793.5,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4180000N2721000": {
+    "latitude": 47.592161,
+    "longitude": 8.130301,
+    "specific_yield_kwh_kwp": 801.66,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4197000N2728000": {
+    "latitude": 47.656943,
+    "longitude": 8.359964,
+    "specific_yield_kwh_kwp": 811.87,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4188000N2727000": {
+    "latitude": 47.645039,
+    "longitude": 8.24212,
+    "specific_yield_kwh_kwp": 762.45,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4195000N2721000": {
+    "latitude": 47.597644,
+    "longitude": 8.327212,
+    "specific_yield_kwh_kwp": 782.72,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4178000N2722000": {
+    "latitude": 47.602474,
+    "longitude": 8.102892,
+    "specific_yield_kwh_kwp": 810.97,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4187000N2723000": {
+    "latitude": 47.610789,
+    "longitude": 8.228048,
+    "specific_yield_kwh_kwp": 804.23,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4197000N2727000": {
+    "latitude": 47.649846,
+    "longitude": 8.356321,
+    "specific_yield_kwh_kwp": 805.36,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4180000N2727000": {
+    "latitude": 47.646153,
+    "longitude": 8.131134,
+    "specific_yield_kwh_kwp": 811.77,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4193000N2722000": {
+    "latitude": 47.606665,
+    "longitude": 8.301261,
+    "specific_yield_kwh_kwp": 802.36,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4181000N2725000": {
+    "latitude": 47.625322,
+    "longitude": 8.148741,
+    "specific_yield_kwh_kwp": 811.74,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4193000N2728000": {
+    "latitude": 47.654259,
+    "longitude": 8.307582,
+    "specific_yield_kwh_kwp": 810.47,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4188000N2729000": {
+    "latitude": 47.66194,
+    "longitude": 8.241211,
+    "specific_yield_kwh_kwp": 795.13,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4179000N2723000": {
+    "latitude": 47.611879,
+    "longitude": 8.114652,
+    "specific_yield_kwh_kwp": 810.05,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4185000N2727000": {
+    "latitude": 47.649482,
+    "longitude": 8.20167,
+    "specific_yield_kwh_kwp": 772.13,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4187000N2729000": {
+    "latitude": 47.660546,
+    "longitude": 8.217635,
+    "specific_yield_kwh_kwp": 789.36,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4199000N2730000": {
+    "latitude": 47.67639,
+    "longitude": 8.377728,
+    "specific_yield_kwh_kwp": 797.49,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4195000N2719000": {
+    "latitude": 47.57336,
+    "longitude": 8.33059,
+    "specific_yield_kwh_kwp": 789.85,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4190000N2724000": {
+    "latitude": 47.61755,
+    "longitude": 8.266898,
+    "specific_yield_kwh_kwp": 804.87,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4184000N2725000": {
+    "latitude": 47.629989,
+    "longitude": 8.182379,
+    "specific_yield_kwh_kwp": 782.21,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4182000N2730000": {
+    "latitude": 47.675076,
+    "longitude": 8.156513,
+    "specific_yield_kwh_kwp": 821.83,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4178000N2720000": {
+    "latitude": 47.583126,
+    "longitude": 8.106905,
+    "specific_yield_kwh_kwp": 795.12,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4185000N2728000": {
+    "latitude": 47.653004,
+    "longitude": 8.1969,
+    "specific_yield_kwh_kwp": 797.56,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4187000N2728000": {
+    "latitude": 47.658367,
+    "longitude": 8.222035,
+    "specific_yield_kwh_kwp": 786.8,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4186000N2729000": {
+    "latitude": 47.663641,
+    "longitude": 8.2142,
+    "specific_yield_kwh_kwp": 789.23,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4193000N2731000": {
+    "latitude": 47.68236,
+    "longitude": 8.306383,
+    "specific_yield_kwh_kwp": 807.8,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4193000N2724000": {
+    "latitude": 47.625043,
+    "longitude": 8.305976,
+    "specific_yield_kwh_kwp": 798.0,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4194000N2722000": {
+    "latitude": 47.599575,
+    "longitude": 8.318111,
+    "specific_yield_kwh_kwp": 792.63,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4183000N2727000": {
+    "latitude": 47.646275,
+    "longitude": 8.171115,
+    "specific_yield_kwh_kwp": 801.07,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4186000N2726000": {
+    "latitude": 47.635422,
+    "longitude": 8.208859,
+    "specific_yield_kwh_kwp": 757.58,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4190000N2730000": {
+    "latitude": 47.675152,
+    "longitude": 8.262203,
+    "specific_yield_kwh_kwp": 811.15,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4188000N2723000": {
+    "latitude": 47.612419,
+    "longitude": 8.233592,
+    "specific_yield_kwh_kwp": 772.35,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4183000N2726000": {
+    "latitude": 47.635575,
+    "longitude": 8.17726,
+    "specific_yield_kwh_kwp": 777.11,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4178000N2723000": {
+    "latitude": 47.608568,
+    "longitude": 8.106637,
+    "specific_yield_kwh_kwp": 786.59,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4178000N2719000": {
+    "latitude": 47.57621,
+    "longitude": 8.100957,
+    "specific_yield_kwh_kwp": 796.54,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4180000N2725000": {
+    "latitude": 47.624708,
+    "longitude": 8.133421,
+    "specific_yield_kwh_kwp": 805.89,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4184000N2726000": {
+    "latitude": 47.635021,
+    "longitude": 8.180051,
+    "specific_yield_kwh_kwp": 775.77,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4181000N2732000": {
+    "latitude": 47.689418,
+    "longitude": 8.14579,
+    "specific_yield_kwh_kwp": 820.09,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4182000N2731000": {
+    "latitude": 47.67831,
+    "longitude": 8.153113,
+    "specific_yield_kwh_kwp": 821.92,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4180000N2724000": {
+    "latitude": 47.61881,
+    "longitude": 8.131716,
+    "specific_yield_kwh_kwp": 808.08,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4182000N2728000": {
+    "latitude": 47.656752,
+    "longitude": 8.151757,
+    "specific_yield_kwh_kwp": 819.58,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4181000N2728000": {
+    "latitude": 47.657917,
+    "longitude": 8.146125,
+    "specific_yield_kwh_kwp": 815.14,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4193000N2726000": {
+    "latitude": 47.635251,
+    "longitude": 8.306416,
+    "specific_yield_kwh_kwp": 805.8,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4197000N2721000": {
+    "latitude": 47.594056,
+    "longitude": 8.363747,
+    "specific_yield_kwh_kwp": 735.06,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4183000N2722000": {
+    "latitude": 47.60423,
+    "longitude": 8.169061,
+    "specific_yield_kwh_kwp": 811.61,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4199000N2729000": {
+    "latitude": 47.667827,
+    "longitude": 8.378974,
+    "specific_yield_kwh_kwp": 812.23,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4178000N2730000": {
+    "latitude": 47.668664,
+    "longitude": 8.102653,
+    "specific_yield_kwh_kwp": 814.17,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4185000N2731000": {
+    "latitude": 47.678256,
+    "longitude": 8.199714,
+    "specific_yield_kwh_kwp": 821.88,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4194000N2731000": {
+    "latitude": 47.683177,
+    "longitude": 8.31072,
+    "specific_yield_kwh_kwp": 809.84,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4183000N2725000": {
+    "latitude": 47.623857,
+    "longitude": 8.176344,
+    "specific_yield_kwh_kwp": 756.27,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4190000N2723000": {
+    "latitude": 47.615431,
+    "longitude": 8.267065,
+    "specific_yield_kwh_kwp": 804.55,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4179000N2724000": {
+    "latitude": 47.61583,
+    "longitude": 8.11446,
+    "specific_yield_kwh_kwp": 808.95,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4193000N2727000": {
+    "latitude": 47.651595,
+    "longitude": 8.305768,
+    "specific_yield_kwh_kwp": 807.73,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4180000N2728000": {
+    "latitude": 47.650291,
+    "longitude": 8.129167,
+    "specific_yield_kwh_kwp": 818.96,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4186000N2730000": {
+    "latitude": 47.669917,
+    "longitude": 8.212651,
+    "specific_yield_kwh_kwp": 812.44,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4198000N2730000": {
+    "latitude": 47.677407,
+    "longitude": 8.375477,
+    "specific_yield_kwh_kwp": 793.59,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4195000N2729000": {
+    "latitude": 47.669733,
+    "longitude": 8.324251,
+    "specific_yield_kwh_kwp": 788.54,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4188000N2730000": {
+    "latitude": 47.677142,
+    "longitude": 8.241912,
+    "specific_yield_kwh_kwp": 803.16,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4194000N2726000": {
+    "latitude": 47.635482,
+    "longitude": 8.311619,
+    "specific_yield_kwh_kwp": 805.75,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4194000N2729000": {
+    "latitude": 47.668373,
+    "longitude": 8.321189,
+    "specific_yield_kwh_kwp": 786.65,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4181000N2730000": {
+    "latitude": 47.675906,
+    "longitude": 8.148762,
+    "specific_yield_kwh_kwp": 819.72,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4195000N2723000": {
+    "latitude": 47.615896,
+    "longitude": 8.331674,
+    "specific_yield_kwh_kwp": 778.76,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4196000N2728000": {
+    "latitude": 47.654045,
+    "longitude": 8.34827,
+    "specific_yield_kwh_kwp": 812.37,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4181000N2729000": {
+    "latitude": 47.659341,
+    "longitude": 8.145142,
+    "specific_yield_kwh_kwp": 819.26,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4183000N2730000": {
+    "latitude": 47.675513,
+    "longitude": 8.170021,
+    "specific_yield_kwh_kwp": 820.96,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4189000N2730000": {
+    "latitude": 47.673886,
+    "longitude": 8.244686,
+    "specific_yield_kwh_kwp": 808.26,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4192000N2727000": {
+    "latitude": 47.643667,
+    "longitude": 8.288068,
+    "specific_yield_kwh_kwp": 805.91,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4198000N2727000": {
+    "latitude": 47.652486,
+    "longitude": 8.364287,
+    "specific_yield_kwh_kwp": 813.29,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4189000N2728000": {
+    "latitude": 47.65542,
+    "longitude": 8.253299,
+    "specific_yield_kwh_kwp": 800.08,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4184000N2730000": {
+    "latitude": 47.674758,
+    "longitude": 8.184127,
+    "specific_yield_kwh_kwp": 821.01,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4178000N2731000": {
+    "latitude": 47.683835,
+    "longitude": 8.103647,
+    "specific_yield_kwh_kwp": 819.91,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4178000N2732000": {
+    "latitude": 47.686603,
+    "longitude": 8.10754,
+    "specific_yield_kwh_kwp": 812.73,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4189000N2732000": {
+    "latitude": 47.689958,
+    "longitude": 8.255235,
+    "specific_yield_kwh_kwp": 820.53,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4192000N2724000": {
+    "latitude": 47.616769,
+    "longitude": 8.294944,
+    "specific_yield_kwh_kwp": 791.89,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4182000N2726000": {
+    "latitude": 47.635241,
+    "longitude": 8.157317,
+    "specific_yield_kwh_kwp": 786.57,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4183000N2729000": {
+    "latitude": 47.659755,
+    "longitude": 8.16975,
+    "specific_yield_kwh_kwp": 797.02,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4186000N2731000": {
+    "latitude": 47.681152,
+    "longitude": 8.211596,
+    "specific_yield_kwh_kwp": 809.32,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4195000N2718000": {
+    "latitude": 47.571416,
+    "longitude": 8.330985,
+    "specific_yield_kwh_kwp": 764.67,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4198000N2721000": {
+    "latitude": 47.593552,
+    "longitude": 8.366155,
+    "specific_yield_kwh_kwp": 614.79,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4182000N2722000": {
+    "latitude": 47.603662,
+    "longitude": 8.153127,
+    "specific_yield_kwh_kwp": 811.5,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4181000N2723000": {
+    "latitude": 47.606181,
+    "longitude": 8.142401,
+    "specific_yield_kwh_kwp": 808.34,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4197000N2724000": {
+    "latitude": 47.621285,
+    "longitude": 8.354639,
+    "specific_yield_kwh_kwp": 802.68,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4182000N2725000": {
+    "latitude": 47.628088,
+    "longitude": 8.160233,
+    "specific_yield_kwh_kwp": 791.04,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4196000N2730000": {
+    "latitude": 47.67157,
+    "longitude": 8.346377,
+    "specific_yield_kwh_kwp": 815.64,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4185000N2730000": {
+    "latitude": 47.676303,
+    "longitude": 8.190463,
+    "specific_yield_kwh_kwp": 821.59,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4181000N2731000": {
+    "latitude": 47.677413,
+    "longitude": 8.149151,
+    "specific_yield_kwh_kwp": 818.8,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4179000N2731000": {
+    "latitude": 47.679624,
+    "longitude": 8.120446,
+    "specific_yield_kwh_kwp": 776.08,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  },
+  "E4179000N2732000": {
+    "latitude": 47.687595,
+    "longitude": 8.11283,
+    "specific_yield_kwh_kwp": 820.01,
+    "version": "PVGIS 5.3",
+    "reference": "south_vertical_1kwp_loss14"
+  }
+}

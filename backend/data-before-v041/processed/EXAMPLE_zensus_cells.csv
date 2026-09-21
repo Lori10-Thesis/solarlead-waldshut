@@ -1,0 +1,4 @@
+cell_id,latitude,longitude,housing_units,mfh_share,solar_score
+WT_001,47.6237,8.2172,180,0.72,0.89
+WT_002,47.6328,8.2747,155,0.64,0.87
+WT_003,47.6269,8.3144,120,0.57,0.88
